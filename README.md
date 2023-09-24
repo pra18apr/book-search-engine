@@ -58,7 +58,7 @@ npm start
 ![Screenshot of the Application](docs/book-search-engine.png?raw=true "Screenshot of the Application")  
 
 #### Deployed Application
-Link to the application running on Heroku: [(MERN)  Book Search Engine](https://pra18apr-google-book-search.herokuapp.com/)
+Link to the application running on Heroku: [(MERN)  Book Search Engine](https://fast-retreat-66184.herokuapp.com/)
 
 
 ## License
